@@ -285,10 +285,12 @@ MIT Licensed by Font Awesome
 <span class="cf-icon
              cf-icon-left
              cf-icon__before"></span><br>
+<svg class="test-icon test-icon-left" xmlns="http://www.w3.org/2000/svg" height="16" viewBox="22 5 56 92"><path d="M59.3 8.3c-.3.1-34.1 33.9-34.1 33.9-4.3 4.4-4.3 11.2 0 15.5l34.1 34.1c4.3 4.3 11.2 4.3 15.6 0 4.3-4.2 4.3-11.2 0-15.4L48.5 50l26.3-26.2c4.3-4.3 4.3-11.3 0-15.5-4.4-4.4-11.3-4.4-15.5 0z"/></svg>
 <span class="cf-icon
              cf-icon-left-round
              cf-icon__before"></span><br>
 
+<svg xmlns="http://www.w3.org/2000/svg" height="16" viewBox="5 5 90 90"><path d="M5 50c0 24.9 20.1 45 45 45s45-20.1 45-45S74.9 5 50 5 5 25.1 5 50zm57.1-25.7c2.6 2.6 2.6 6.9 0 9.5L46 50l16.1 16.2c2.7 2.6 2.7 6.9 0 9.5-2.6 2.6-6.9 2.6-9.5 0l-21-20.9c-2.6-2.6-2.6-6.9 0-9.5l20.9-20.9c2.7-2.7 6.9-2.7 9.6-.1z"/></svg>
 ```
 <span class="cf-icon
              cf-icon-left

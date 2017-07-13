@@ -25,7 +25,8 @@
     "release": "./scripts/travis/release.sh",
     "build": "gulp build",
     "test": "gulp test",
-    "cf-link": "node scripts/npm/link"
+    "cf-link": "node scripts/npm/link",
+    "generate-icons": "node scripts/npm/icons"
   },
   "devDependencies": {
     "bluebird": "^3.0.5",
@@ -33,6 +34,7 @@
     "child-process-promise": "^1.1.0",
     "deepmerge": "^0.2.10",
     "finalhandler": "^0.4.1",
+    "font-blast": "^0.6.1",
     "fs-readdir-promise": "^1.0.1",
     "gulp": "^3.9.0",
     "gulp-apply-template": "0.0.2",

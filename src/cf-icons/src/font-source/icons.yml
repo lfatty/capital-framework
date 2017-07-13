@@ -1,0 +1,12 @@
+icons:
+  - name:       Left
+    id:         left
+    unicode:    e000
+    categories:
+      - Web Application Icons
+
+  - name:       Left Round
+    id:         left-round
+    unicode:    e001
+    categories:
+      - Web Application Icons
